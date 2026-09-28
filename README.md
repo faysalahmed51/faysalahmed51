@@ -1,16 +1,26 @@
-## Hi there 👋
+# Faysal Ahmed
 
-<!--
-**faysalahmed51/faysalahmed51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Cybersecurity Specialist | Ethical Hacker
 
-Here are some ideas to get you started:
+I am Faysal Ahmed, a cybersecurity enthusiast from Bangladesh, working with cybersecurity, ethical hacking, Facebook technology, and digital security.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Areas of Interest
+
+- Cybersecurity
+- Ethical Hacking
+- Digital Security
+- Social Media Security
+- Facebook Technology
+- Cybersecurity Awareness
+
+## Featured in Media
+
+**Kalbela** — *সাইবার সিকিউরিটি ও ফেসবুক প্রযুক্তিসেবায় ফয়সাল*
+
+[Read the article](https://www.kalbela.com/technology/others/332862)
+
+## Connect With Me
+
+- [About Me](https://about.me/faysal-ahmed)
+- [Instagram](https://instagram.com/FaysalAhmed0000)
+- [YouTube](https://youtube.com/@FaysalAhmed-cyber)
