@@ -2,7 +2,7 @@
 
 ### Cybersecurity Specialist | Ethical Hacker
 
-I am Faysal Ahmed, a cybersecurity enthusiast from Bangladesh, working with cybersecurity, ethical hacking, Facebook technology, and digital security.
+I am Faysal Ahmed from Bangladesh, working in cybersecurity, ethical hacking, Facebook technology, and digital security.
 
 ## Areas of Interest
 
