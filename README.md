@@ -22,5 +22,6 @@ I am Faysal Ahmed from Bangladesh, working in cybersecurity, ethical hacking, Fa
 ## Connect With Me
 
 - [About Me](https://about.me/faysal-ahmed)
+- [Facebook](https://www.facebook.com/Faysalahmed90197904)
 - [Instagram](https://instagram.com/FaysalAhmed0000)
 - [YouTube](https://youtube.com/@FaysalAhmed-cyber)
